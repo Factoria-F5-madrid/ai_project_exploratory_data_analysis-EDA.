@@ -1,7 +1,6 @@
 # Proyecto EDA: Exploratory Data Analysis
 
-![Banner Proyectos](assets/minidatathon.PNG)
-
+<img width="11520" height="3456" alt="Banner Proyectos" src="https://github.com/user-attachments/assets/a6561ed2-24e1-451a-b75d-07e0e85aed63" />
 
 ## 📝 Descripción del Proyecto
 
