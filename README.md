@@ -1,4 +1,4 @@
-# Proyecto EDA: Mini Datathon
+# Proyecto EDA: Exploratory Data Analysis
 
 ![Banner Proyectos](assets/minidatathon.PNG)
 
