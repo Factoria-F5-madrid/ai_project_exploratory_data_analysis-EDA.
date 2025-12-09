@@ -4,7 +4,7 @@
 
 ## 📝 Descripción del Proyecto
 
-Tenemos una serie de datos de los que necesecitamos sacar conclusiones para más adelante poder usarlos, en este caso, es importante mostrar ante nuestro CEO datos limpios y con sentido, para eso llevaremos a cabo un Exploratory Data Analysis.
+Tenemos una serie de datos de los que necesecitamos sacar conclusiones para más adelante poder usarlos, en este caso, es importante mostrar ante nuestro CEO datos limpios y con sentido, para eso llevaremos a cabo un análisis exploratorio de datos.
 
 Tu como IA developer, debes usar el dataset de tu preferencia y realizar el análisis. En caso de no tener un dataset definido, puedesa hacer uso de la siguiente API pública y gratuita, que guardó y registró datos sobre el Covid19 en Estados Unidos hasta 2021. [Link a la API](https://covidtracking.com/data/api)
 
